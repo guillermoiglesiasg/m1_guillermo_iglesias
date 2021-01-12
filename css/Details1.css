@@ -1,0 +1,76 @@
+.clase1 {
+    font-family: 'Redressed', cursive;
+    color:white;
+    background-color: rgb(25, 22, 228);
+    text-align: center;
+    margin:0%;
+    padding: 10px;
+    width: 100%;
+}
+.clase2 {
+    background-color: turquoise;
+    text-align: center;
+    padding: 20px;
+    margin:0%;
+    position: sticky;
+    top:0;
+}
+.clase3 {
+    font-family:Arial, Helvetica, sans-serif;
+    color:rgb(25, 22, 228);
+    text-decoration: none;
+}
+
+.container-table{
+    overflow-x: auto;
+  }
+  th{
+      height: 70px;
+  }
+  th, td {
+    border-bottom: 1px solid rgb(25, 22, 228);
+  }
+
+  table {
+    width: 100%;
+    text-align: center;
+  }
+
+  /* Con hover podemos cambiar sus propiedades cuando el ratón pase por encima */
+  tr:hover {
+    background-color: turquoise;
+  }
+
+  .ima1 {
+      width: 150px;
+      height: 100px;
+  }
+  .boton1{
+      background-color:  rgb(25, 22, 228);
+      border-radius: 5px;
+      border-color: rgb(25, 22, 228);
+      color:white
+  }
+  .boton2{
+    background-color:  rgb(9, 211, 9);
+    border-radius: 5px;
+    border-color: rgb(9, 211, 9);
+    color:white
+}
+.boton3{
+    background-color:  rgb(211, 9, 9);
+    border-radius: 5px;
+    border-color: rgb(211, 9, 9);
+    color:white
+}
+.ima2 {
+    width: 250px;
+    height: 200px;
+}
+.esp1{
+    padding: 20px;
+}
+.esp2{
+    padding: 100px;
+    text-align: right;
+}
